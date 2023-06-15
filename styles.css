@@ -10,3 +10,12 @@ img{
     margin-bottom: 10px;
     margin-top: 10px;
 }
+.dragon{
+    border-radius: 5px;
+}
+.leoperd{
+    border-radius: 10px;
+}
+.dough{
+    border-radius: 20px;
+}
